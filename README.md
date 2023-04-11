@@ -1,4 +1,5 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=f7f37b&text=U-Hyun's%20GitHub%20&height=150&fontSize=55&desc=Welcome!&descAlignY=80&descAlign=65&descSize=15)
+
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=f7f37b&text=U-Hyun's%20GitHub%20&height=150&fontSize=50&desc=Welcome!&descAlignY=80&descAlign=65&descSize=15)
 
 <br>
 <br>
@@ -30,3 +31,8 @@
     <a href="https://www.instagram.com/_u.hyun__/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:hyun1115@gmail.com?subject=Hello%20Ileri,%20From%20Github" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
 </p>
+<br><br><br>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=U-Hyun-98&theme=dark&show_icons=true" alt="Anurag's GitHub stats">
+</div>
