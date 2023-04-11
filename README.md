@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=f7f37b&text=U-Hyun's%20GitHub%20&height=150&fontSize=50&desc=Welcome!&descAlignY=80&descAlign=65&descSize=15)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=f7f37b&text=U-Hyun's%20GitHub%20&height=150&fontSize=55&desc=Welcome!&descAlignY=80&descAlign=65&descSize=15)
 
 <br>
 <br>
